@@ -1,0 +1,17 @@
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\bin\Debug\net6.0\Send.exe
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\bin\Debug\net6.0\Send.deps.json
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\bin\Debug\net6.0\Send.runtimeconfig.json
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\bin\Debug\net6.0\Send.dll
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\bin\Debug\net6.0\Send.pdb
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\obj\Debug\net6.0\Send.csproj.AssemblyReference.cache
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\obj\Debug\net6.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\obj\Debug\net6.0\Send.AssemblyInfoInputs.cache
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\obj\Debug\net6.0\Send.AssemblyInfo.cs
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\obj\Debug\net6.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\obj\Debug\net6.0\Send.csproj.CopyComplete
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\obj\Debug\net6.0\Send.dll
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\obj\Debug\net6.0\refint\Send.dll
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\obj\Debug\net6.0\Send.pdb
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\obj\Debug\net6.0\Send.genruntimeconfig.cache
+C:\Users\Damzxyno\Desktop\rabbitmq_deep_practice\Send\obj\Debug\net6.0\ref\Send.dll
